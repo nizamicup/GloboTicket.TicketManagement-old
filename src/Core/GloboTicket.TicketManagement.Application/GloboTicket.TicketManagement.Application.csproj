@@ -6,8 +6,17 @@
 
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="13.0.1" />
-    <PackageReference Include="DependencyInjection" Version="1.2.0" />
+    <!-- <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" /> -->
     <PackageReference Include="MediatR" Version="12.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Features/Categories/Commands/" />
+    <Folder Include="Features/Events/Commands/" />
+    <Folder Include="Features/Events/Commands/CreateEvent/" />
+    <Folder Include="Features/Orders/" />
+    <Folder Include="Features/Orders/Commands/" />
+    <Folder Include="Features/Orders/Queries/" />
   </ItemGroup>
 
   <PropertyGroup>

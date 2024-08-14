@@ -1,3 +1,4 @@
+namespace GloboTicket.TicketManagement.Domain.Entities;
 public class Category : AuditableEntity
 {
     public Guid CategoryId { get; set; }

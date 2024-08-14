@@ -18,15 +18,6 @@
           }
         }
       },
-      "DependencyInjection/1.2.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/DependencyInjectionLib.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/DependencyInjectionLib.dll": {}
-        }
-      },
       "MediatR/12.4.0": {
         "type": "package",
         "dependencies": {
@@ -151,18 +142,6 @@
         "icon.png",
         "lib/net6.0/AutoMapper.dll",
         "lib/net6.0/AutoMapper.xml"
-      ]
-    },
-    "DependencyInjection/1.2.0": {
-      "sha512": "y/hXYHE86R72B0Fslnu/Sip9/7Fthfhosfg5XNlLnQak6+FUHCkJ/QXMFBMCs7Wn9UtADYREuavUr9YhhOIEBA==",
-      "type": "package",
-      "path": "dependencyinjection/1.2.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "dependencyinjection.1.2.0.nupkg.sha512",
-        "dependencyinjection.nuspec",
-        "lib/netstandard2.0/DependencyInjectionLib.dll"
       ]
     },
     "MediatR/12.4.0": {
@@ -308,7 +287,6 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "AutoMapper >= 13.0.1",
-      "DependencyInjection >= 1.2.0",
       "GloboTicket.TicketManagement.Domain >= 1.0.0",
       "MediatR >= 12.4.0"
     ]
@@ -362,10 +340,6 @@
           "AutoMapper": {
             "target": "Package",
             "version": "[13.0.1, )"
-          },
-          "DependencyInjection": {
-            "target": "Package",
-            "version": "[1.2.0, )"
           },
           "MediatR": {
             "target": "Package",

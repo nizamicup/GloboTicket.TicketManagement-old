@@ -1,3 +1,4 @@
+namespace GloboTicket.TicketManagement.Domain.Entities;
 public class Event : AuditableEntity
 {
     public Guid EventId { get; set; }

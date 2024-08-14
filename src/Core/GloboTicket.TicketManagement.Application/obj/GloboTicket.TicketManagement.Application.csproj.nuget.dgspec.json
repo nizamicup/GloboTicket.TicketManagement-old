@@ -51,10 +51,6 @@
               "target": "Package",
               "version": "[13.0.1, )"
             },
-            "DependencyInjection": {
-              "target": "Package",
-              "version": "[1.2.0, )"
-            },
             "MediatR": {
               "target": "Package",
               "version": "[12.4.0, )"

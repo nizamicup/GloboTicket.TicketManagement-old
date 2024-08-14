@@ -1,0 +1,16 @@
+/Users/nizam/Projects/GloboTicket.TicketManagement/src/Core/GloboTicket.TicketManagement.Application/bin/Debug/net8.0/GloboTicket.TicketManagement.Application.deps.json
+/Users/nizam/Projects/GloboTicket.TicketManagement/src/Core/GloboTicket.TicketManagement.Application/bin/Debug/net8.0/GloboTicket.TicketManagement.Application.dll
+/Users/nizam/Projects/GloboTicket.TicketManagement/src/Core/GloboTicket.TicketManagement.Application/bin/Debug/net8.0/GloboTicket.TicketManagement.Application.pdb
+/Users/nizam/Projects/GloboTicket.TicketManagement/src/Core/GloboTicket.TicketManagement.Application/bin/Debug/net8.0/GloboTicket.TicketManagement.Domain.dll
+/Users/nizam/Projects/GloboTicket.TicketManagement/src/Core/GloboTicket.TicketManagement.Application/bin/Debug/net8.0/GloboTicket.TicketManagement.Domain.pdb
+/Users/nizam/Projects/GloboTicket.TicketManagement/src/Core/GloboTicket.TicketManagement.Application/obj/Debug/net8.0/GloboTicket.TicketManagement.Application.csproj.AssemblyReference.cache
+/Users/nizam/Projects/GloboTicket.TicketManagement/src/Core/GloboTicket.TicketManagement.Application/obj/Debug/net8.0/GloboTicket.TicketManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nizam/Projects/GloboTicket.TicketManagement/src/Core/GloboTicket.TicketManagement.Application/obj/Debug/net8.0/GloboTicket.TicketManagement.Application.AssemblyInfoInputs.cache
+/Users/nizam/Projects/GloboTicket.TicketManagement/src/Core/GloboTicket.TicketManagement.Application/obj/Debug/net8.0/GloboTicket.TicketManagement.Application.AssemblyInfo.cs
+/Users/nizam/Projects/GloboTicket.TicketManagement/src/Core/GloboTicket.TicketManagement.Application/obj/Debug/net8.0/GloboTicket.TicketManagement.Application.csproj.CoreCompileInputs.cache
+/Users/nizam/Projects/GloboTicket.TicketManagement/src/Core/GloboTicket.TicketManagement.Application/obj/Debug/net8.0/GloboTicket.TicketManagement.Application.sourcelink.json
+/Users/nizam/Projects/GloboTicket.TicketManagement/src/Core/GloboTicket.TicketManagement.Application/obj/Debug/net8.0/GloboTic.C7484A60.Up2Date
+/Users/nizam/Projects/GloboTicket.TicketManagement/src/Core/GloboTicket.TicketManagement.Application/obj/Debug/net8.0/GloboTicket.TicketManagement.Application.dll
+/Users/nizam/Projects/GloboTicket.TicketManagement/src/Core/GloboTicket.TicketManagement.Application/obj/Debug/net8.0/refint/GloboTicket.TicketManagement.Application.dll
+/Users/nizam/Projects/GloboTicket.TicketManagement/src/Core/GloboTicket.TicketManagement.Application/obj/Debug/net8.0/GloboTicket.TicketManagement.Application.pdb
+/Users/nizam/Projects/GloboTicket.TicketManagement/src/Core/GloboTicket.TicketManagement.Application/obj/Debug/net8.0/ref/GloboTicket.TicketManagement.Application.dll
