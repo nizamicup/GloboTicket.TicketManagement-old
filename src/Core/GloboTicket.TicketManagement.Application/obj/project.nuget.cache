@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "pbBEiN0DMRg=",
+  "dgSpecHash": "eeHuawJVEc4=",
   "success": true,
   "projectFilePath": "/Users/nizam/Projects/GloboTicket.TicketManagement/src/Core/GloboTicket.TicketManagement.Application/GloboTicket.TicketManagement.Application.csproj",
   "expectedPackageFiles": [
     "/Users/nizam/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
+    "/Users/nizam/.nuget/packages/fluentvalidation/11.9.2/fluentvalidation.11.9.2.nupkg.sha512",
+    "/Users/nizam/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.9.2/fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
     "/Users/nizam/.nuget/packages/mediatr/12.4.0/mediatr.12.4.0.nupkg.sha512",
     "/Users/nizam/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/nizam/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
