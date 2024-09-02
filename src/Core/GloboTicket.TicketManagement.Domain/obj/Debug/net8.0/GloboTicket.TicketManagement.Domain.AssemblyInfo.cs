@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GloboTicket.TicketManagement.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84cf6cb01e5394d6bff7e50040a118b27cc5a9fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9e88cc227146387011bdfe417bf65d7798a26d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("GloboTicket.TicketManagement.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GloboTicket.TicketManagement.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

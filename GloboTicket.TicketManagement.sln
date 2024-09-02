@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GloboTicket.TicketManagemen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GloboTicket.TicketManagement.Infrastructure", "src\Infrastructure\GloboTicket.TicketManagement.Infrastructure\GloboTicket.TicketManagement.Infrastructure.csproj", "{370B48CA-37BA-4B44-8C17-453DCC86EDFE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{08D892C9-7644-44AA-98B6-3E531BD25FFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GloboTicket.TicketManagement.Api", "src\Api\GloboTicket.TicketManagement.Api\GloboTicket.TicketManagement.Api.csproj", "{6DDA327C-63F4-4D48-9CB2-39DC9C0CC7C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,10 @@ Global
 		{370B48CA-37BA-4B44-8C17-453DCC86EDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{370B48CA-37BA-4B44-8C17-453DCC86EDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{370B48CA-37BA-4B44-8C17-453DCC86EDFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DDA327C-63F4-4D48-9CB2-39DC9C0CC7C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DDA327C-63F4-4D48-9CB2-39DC9C0CC7C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DDA327C-63F4-4D48-9CB2-39DC9C0CC7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DDA327C-63F4-4D48-9CB2-39DC9C0CC7C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,5 +58,7 @@ Global
 		{E98A0A1F-310D-409E-AC18-29CB692A32F3} = {14BD161A-D13E-4279-A3C8-D5B9A411EE95}
 		{4742A7FD-B267-4C33-AF81-E3F84CE98F27} = {E98A0A1F-310D-409E-AC18-29CB692A32F3}
 		{370B48CA-37BA-4B44-8C17-453DCC86EDFE} = {E98A0A1F-310D-409E-AC18-29CB692A32F3}
+		{08D892C9-7644-44AA-98B6-3E531BD25FFF} = {14BD161A-D13E-4279-A3C8-D5B9A411EE95}
+		{6DDA327C-63F4-4D48-9CB2-39DC9C0CC7C8} = {08D892C9-7644-44AA-98B6-3E531BD25FFF}
 	EndGlobalSection
 EndGlobal
